@@ -38,7 +38,7 @@ export const Hero: React.FC = () => {
                 Entre em contato <ArrowRight className="w-5 h-5" />
               </a>
               <a href="#skills" className="w-full sm:w-auto px-8 py-3.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-white font-semibold transition-all border border-slate-700 flex items-center justify-center gap-2">
-                Ver Certificações <Terminal className="w-5 h-5" />
+                Ver Certificações <ArrowRight className="w-5 h-5" />
               </a>
             </div>
           </div>
